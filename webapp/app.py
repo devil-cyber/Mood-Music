@@ -2,6 +2,7 @@ from flask import Flask, request, render_template,url_for,redirect,jsonify
 from __api__.music import Get_Song
 from __api__.chat import GET_CHAT_DATA
 import json
+import os
 
 
 app = Flask(__name__,static_url_path='/static')
@@ -30,7 +31,6 @@ def t():
         print(e)
 
 
-    
-    
+port = int(os.getenv('PORT')) 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0",port=port)
