@@ -9,7 +9,7 @@ In this project, we would be combining multiple services and open-source tools t
 In this project, we would be building an extensive Chatbot service, to which you can talk to. And talking to a chatbot wouldn't be business-driven. It would just be casual conversations. Further, on top of it, the chatbot would also be recommending songs to the user based on the tone of the user. This song recommendation feature employs the use of [Last.fm](https://www.last.fm/api) API, very much similar to the popular Spotify API. Also for tone/emotion analysis of the conversation we will be using the [IBM](https://www.youtube.com/watch?v=wUb--6FPBik) Tone Analyzer API.
 
 ## Product Architecture
-![image](../music/asset/arch.png)
+![image](https://github.com/devil-cyber/Mood-Music/blob/master/asset/arch.png)
 
 ## High-Level Approach
 - User starts the conversation
@@ -20,7 +20,7 @@ In this project, we would be building an extensive Chatbot service, to which you
   
 ## Demo
 
-![gif](../music/asset/demo.gif)
+![gif](https://github.com/devil-cyber/Mood-Music/blob/master/asset/demo.gif)
 
 ## Chatting Engine
 
