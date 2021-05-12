@@ -2,6 +2,8 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
+> Deomo url https://mood-song.herokuapp.com/ but frontend need some more work & work in progress
+
 ## Objective of Project:)
 In this project, we would be combining multiple services and open-source tools to make a Chatbot that recommends songs based on the tone of the conversation which the user is having with the chatbot.
 
@@ -45,6 +47,7 @@ In this project, we would be building an extensive Chatbot service, to which you
 
 👤 **Angirekula Sujith**
 * Roll: CSE/18/22
+* Github: [@sujith805](https://github.com/suijith805)
 
 
 ## Show your support
