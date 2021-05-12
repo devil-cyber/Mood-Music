@@ -1,6 +1,6 @@
 API_DATA = {
 
-    "apikey": "9XyDoKHIDUdnyOp-lLosnHViPyZlBSLJGHWLmcpGem_M",
+    "apikey": "key",
     "iam_apikey_description": "Auto-generated for key dac1af05-a622-4d81-a983-9d18a4f158fe",
     "iam_apikey_name": "Auto-generated service credentials",
     "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
@@ -10,9 +10,9 @@ API_DATA = {
 }
 
 MUSIC_DATA = {
-    "apikey":"ea8175be11e1fcbc52732ad6fc26549b",
+    "apikey":"key",
     "secret":"5af5e63815007c6d5d1e130e113fda55",
     
 }
 
-CHAT_SERVER_API = "http://ec2-34-218-232-66.us-west-2.compute.amazonaws.com:80/cakechat_api/v1/actions/get_response"
+CHAT_SERVER_API = "api"
