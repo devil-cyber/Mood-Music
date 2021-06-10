@@ -2,7 +2,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
-> Deomo url https://mood-song.herokuapp.com/ but frontend need some more work & work in progress
+> Deomo url https://mood-song.herokuapp.com/ but frontend need some more work & work in progress (service is down due to credit issue with AWS)
 
 ## Objective of Project:)
 In this project, we would be combining multiple services and open-source tools to make a Chatbot that recommends songs based on the tone of the conversation which the user is having with the chatbot.
