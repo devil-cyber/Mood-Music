@@ -1,4 +1,4 @@
-# Music According To Chat Tone👋 (Host sserver is down so chat will not work)
+# Music According To Chat Tone👋 (Host server is down so chat will not work)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
